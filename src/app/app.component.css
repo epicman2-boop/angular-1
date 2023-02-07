@@ -94,7 +94,7 @@
   
   .header {
     text-align: center;
-    font-wieght: bold;
+    font-weight: bold;
     font-size: 2rem;
   }
   
@@ -149,7 +149,7 @@
     .wrapper {
       
      font-size: 1rem;
-     font-wieght: normal;
+     font-weight: normal;
     }
     .details {
       display: none;
